@@ -1,0 +1,21 @@
+username,platform,followers,following,total_posts,avg_likes,avg_comments,avg_views,verified,niche,hypeauditor_score,engagement_rate,er_deviation,er_score,ff_ratio,ff_score,lc_ratio,lc_score,quality_score,fake_score,risk_label,rank
+fitboy_mumbai,Instagram,95000,8900,340,280,3,7200,no,fitness,18,0.2979,1.7021,9.84,10.67,9.99,70.0,10.0,8.2,95.0,HIGH RISK,1
+cardio_chitra,Instagram,36000,4100,150,140,1,3200,no,fitness,12,0.3917,1.6083,9.3,8.78,10.0,70.0,10.0,8.8,94.9,HIGH RISK,2
+zumba_zara,Instagram,44000,5600,120,180,2,4500,no,fitness,15,0.4136,1.5864,9.17,7.86,10.0,60.0,8.57,8.5,90.2,HIGH RISK,3
+muscleking_delhi,Instagram,78000,12000,180,320,4,8500,no,fitness,22,0.4154,1.5846,9.16,6.5,10.0,64.0,9.14,7.8,89.8,HIGH RISK,4
+flexfuture_farhan,Instagram,112000,7200,380,430,6,14000,no,fitness,28,0.3893,1.6107,9.31,15.55,9.98,61.43,8.78,7.2,87.8,HIGH RISK,5
+beefcake_bunty,Instagram,55000,9800,200,210,3,5800,no,fitness,20,0.3873,1.6127,9.33,5.61,10.0,52.5,7.5,8.0,86.7,HIGH RISK,6
+gymrat_puneet,Instagram,145000,6700,420,580,9,22000,no,fitness,35,0.4062,1.5937999999999999,9.22,21.64,9.98,58.0,8.29,6.5,84.6,HIGH RISK,7
+fitness_rohit,Instagram,450000,312,890,1200,18,85000,no,fitness,42,0.2707,1.7293,10.0,1437.7,7.84,63.16,9.02,5.8,82.7,HIGH RISK,8
+virat_gains,Instagram,89000,4200,230,450,8,12000,no,fitness,31,0.5146,1.4854,8.59,21.19,9.98,50.0,7.14,6.9,80.8,HIGH RISK,9
+nutritionist_neha,Instagram,210000,450,780,6800,310,98000,no,fitness,72,3.3857,1.3857,8.01,465.63,9.31,21.86,3.12,2.8,57.5,MEDIUM RISK,10
+pilates_pooja,Instagram,180000,380,640,5400,240,87000,no,fitness,70,3.1333,1.1333000000000002,6.55,472.44,9.3,22.41,3.2,3.0,53.8,MEDIUM RISK,11
+crossfit_kavya,Instagram,380000,210,560,12400,520,178000,no,fitness,76,3.4,1.4,8.1,1800.95,7.29,23.8,3.4,2.4,53.4,MEDIUM RISK,12
+priya_wellness,Instagram,320000,890,670,9500,420,145000,no,fitness,74,3.1,1.1,6.36,359.15,9.47,22.57,3.22,2.6,52.6,MEDIUM RISK,13
+fattofit_ravi,Instagram,67000,3400,290,890,45,18000,no,fitness,68,1.3955,0.6045,3.5,19.7,9.98,19.35,2.76,3.2,45.4,MEDIUM RISK,14
+healthhub_hemant,Instagram,490000,340,870,13200,590,195000,no,fitness,75,2.8143,0.8142999999999998,4.71,1436.95,7.84,22.34,3.19,2.5,44.0,MEDIUM RISK,15
+strong_sunita,Instagram,720000,410,1230,19500,760,290000,yes,fitness,79,2.8139,0.8138999999999998,4.71,1751.82,7.36,25.62,3.66,2.1,43.2,MEDIUM RISK,16
+ananya_yoga,Instagram,560000,290,1100,15200,680,210000,yes,fitness,78,2.8357,0.8357000000000001,4.83,1924.4,7.1,22.32,3.19,2.2,42.2,MEDIUM RISK,17
+drseema_nutrition,Instagram,890000,320,1890,22000,980,410000,yes,fitness,85,2.582,0.5819999999999999,3.37,2772.59,5.82,22.43,3.2,1.5,33.5,LOW RISK,18
+yogalife_arjun,Instagram,930000,260,2100,24500,1100,450000,yes,fitness,88,2.7527,0.7526999999999999,4.35,3563.22,4.63,22.25,3.18,1.2,33.3,LOW RISK,19
+shraddha_fit,Instagram,1200000,180,1450,28000,890,320000,yes,fitness,81,2.4075,0.4075000000000002,2.36,6629.83,0.0,31.43,4.49,1.9,23.1,LOW RISK,20
